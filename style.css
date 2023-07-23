@@ -1,0 +1,203 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.v{
+    text-decoration: none;
+}
+.d-flex{
+    display: flex ;
+    align-items: center;
+}
+.stylenone{
+    list-style: none;
+}
+.gap{
+    gap: 30px;
+}
+.gap2{
+gap: 10px;    
+}
+.inline{
+    display: inline;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.mt{
+margin-top: 50px;
+}
+.mb{
+    margin-bottom: 50px;
+}
+.navbar-btn{
+    padding: 20px 18px 20px 18px;
+    background-color: red;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+.pad{
+    padding: 10px;
+}
+.a{
+    margin-left: 5px;  
+}
+.align-center{
+    text-align: center;
+}
+.b{
+ font-size: larger;   
+
+}
+.bb{
+
+font-size: xx-large;
+
+}
+
+
+.justify-center{
+    justify-content: center;
+
+}
+.c{
+    margin-top: 10px;
+}
+.d{
+ gap: 20px;   
+ 
+}
+.object{
+    object-fit: cover;
+}
+.align-justify{
+    text-align: justify;
+}
+.e{
+    padding: 30px 40px 30px 40px;
+}
+.btn{
+    border-radius: 30px;
+    border: solid gray 1px;
+    padding: 10px ;
+    background-color:#ff0000 ;
+    cursor: pointer;
+}
+.btn2{
+    padding: 15px 23px 15px 23px;
+    background-color: red;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+}
+.r{
+    color: red;
+    letter-spacing: 2px;
+}
+.mt2{
+    margin-top: 4px;
+}
+.pad1{
+    padding: 20px 6rem 20px 6rem;
+}
+.graycolor{
+    color: #b7b5ad;
+}
+:root {
+    --red: #ff0000;
+    --white: #ffffff;
+    --black:#000000;
+    --gray:#b7b5ad;
+    --darkgray:#0f0f0f;
+}
+.darkgray{
+    background-color: #0f0f0f;
+}
+.width{
+    width: 30%;
+}
+.padl{
+    padding: 40px ;
+    padding-left: 60px;
+}
+.mb1{
+    margin-bottom: 2rem;
+}
+.ml{
+    margin-left: 3rem;
+}
+
+
+.pad2{
+    padding: 1px 90px 130px 90px ;
+}
+.pad4{
+    padding-right: 8rem;
+}
+.pad5{
+padding-left: 8rem;
+}
+.pad6{
+    padding-left: 2rem;
+}
+.pad7{
+    padding-left: 8rem;
+}
+.mb{
+    margin-bottom: 8rem;
+}
+.t{
+    border: 1px solid var(--gray) ;
+    width: 500px;;
+
+
+}
+.f:hover{
+    transform: scale(1.2);
+    
+}
+.display{
+    display: flex ;
+}
+.tt{
+    border: 15px solid #0f0f0f;
+    border-radius: 5%;
+    background-color: #0f0f0f;
+}
+.pad8{
+    padding-left: 25rem;
+}
+.k{
+    height: 40px;
+    width: 600px;
+    color: #000000;
+}
+.pad9{
+    padding-left: 60px;
+}
+.pad11{
+     padding-bottom: 47px;
+     padding-left: 20px;
+}
+.pad12{
+    padding-left: 8rem;
+}
+
+
+
+
+
+
+
+
+
